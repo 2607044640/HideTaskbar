@@ -18,13 +18,13 @@ UIPI Bypass (Auto-Admin): Automatically requests Administrator privileges on sta
 AutoHotkey v2 installed on your Windows machine.
 
 🚀 Installation & Usage
-Download the HideTaskbar.ahk script.
+***Download the HideTaskbar.ahk script.
 
-Double-click the file to run it.
+***Double-click the file to run it.
 
-Click Yes on the User Account Control (UAC) prompt. (Admin rights are required to ensure the script works over other Admin-level apps).
+***Click Yes on the User Account Control (UAC) prompt. (Admin rights are required to ensure the script works over other Admin-level apps).
 
-The script will run quietly in the background. You will see a green 'H' icon in your system tray.
+***The script will run quietly in the background. You will see a green 'H' icon in your system tray.
 
 🛠️ Customization
 You can easily tweak the script's behavior by opening the .ahk file in any text editor (like Notepad):
